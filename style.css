@@ -1,0 +1,58 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+  font-size: 35px;
+}
+
+.about p.title {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: var(--font-sea-color);
+  transition: 0.25s;
+}
+
+.about .support {
+  margin-bottom: 30px;
+  line-height: 30px;
+}
+
+.about p.title {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: var(--font-sea-color);
+  transition: 0.25s;
+}
+
+.about ul {
+  margin-bottom: 30px;
+}
+
+.about ul li {
+  margin-bottom: 15px;
+}
+
+.about img {
+  width: 380px;
+  max-width: 100%;
+}
+
+.about .cta a {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.skills ul li {
+  margin-bottom: 15px;
+}
